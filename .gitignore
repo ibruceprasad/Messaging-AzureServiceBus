@@ -7,3 +7,5 @@ tests/MessageServiceUnitTests/obj
 IaC/.terraform
 .vs/
 .git/
+src/Services/bin
+src/Services/obj
