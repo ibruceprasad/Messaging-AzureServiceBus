@@ -2,7 +2,8 @@ src/MessageReceiver.Worker/bin
 src/MessageReceiver.Worker/obj
 src/MessageSender/obj
 src/MessageSender/bin
-test/MessageServiceUnitTests/bin
-test/MessageServiceUnitTests/obj
+tests/MessageServiceUnitTests/bin
+tests/MessageServiceUnitTests/obj
 IaC/.terraform
 .vs/
+.git/

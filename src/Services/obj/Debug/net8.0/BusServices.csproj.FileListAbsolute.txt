@@ -46,3 +46,16 @@ C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging\src\Services
 C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging\src\Services\obj\Debug\net8.0\refint\BusServices.dll
 C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging\src\Services\obj\Debug\net8.0\BusServices.pdb
 C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging\src\Services\obj\Debug\net8.0\ref\BusServices.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\bin\Debug\net8.0\BusServices.deps.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\bin\Debug\net8.0\BusServices.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\bin\Debug\net8.0\BusServices.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.csproj.AssemblyReference.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.AssemblyInfoInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.AssemblyInfo.cs
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.csproj.CoreCompileInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.sourcelink.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\refint\BusServices.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\BusServices.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Messaging\Messaging-AzureServiceBus\src\Services\obj\Debug\net8.0\ref\BusServices.dll
